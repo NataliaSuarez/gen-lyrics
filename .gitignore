@@ -142,6 +142,5 @@ dataset_cache.tar.gz
 pytorch_model.bin
 
 #res files
-*.txt
 */*.txt
 *.pdf
