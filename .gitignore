@@ -138,7 +138,10 @@ trained_model*/*.bin
 aitextgen-merges.txt
 aitextgen-vocab.json
 ATG_*.txt
-*.txt
-*/*.txt
 dataset_cache.tar.gz
 pytorch_model.bin
+
+#res files
+*.txt
+*/*.txt
+*.pdf
